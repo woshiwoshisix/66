@@ -1,0 +1,4 @@
+name: untitled
+version: '${project.version}'
+main: org.exampleboss.untitled.Untitled
+api-version: '1.20'

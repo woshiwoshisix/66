@@ -1,0 +1,4 @@
+name: BOSS
+version: '${project.version}'
+main: boss.mochu666.BOSS
+api-version: '1.20'
