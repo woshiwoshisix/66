@@ -1,0 +1,4 @@
+name: wuziqi
+version: '${project.version}'
+main: boss.wuziqi.Wuziqi
+api-version: '1.20'

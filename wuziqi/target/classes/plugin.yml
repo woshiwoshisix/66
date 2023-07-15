@@ -1,0 +1,4 @@
+name: wuziqi
+version: '1.0-SNAPSHOT'
+main: boss.wuziqi.Wuziqi
+api-version: '1.20'
